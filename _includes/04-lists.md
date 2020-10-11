@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+:sparkles:
+* Cats
+* Adrenaline
+  * Rock climbing 
+  * Roller coasters
