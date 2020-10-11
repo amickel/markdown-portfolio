@@ -1,1 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+* Always pumped to eat
+* _Favorite color *changes* daily_ 
+* _Sprit animal is a **worm**_
